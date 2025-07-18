@@ -1,6 +1,5 @@
-import React from "react";
 
-function TestComponent() {
+const TestComponent = () => {
   return (
     <div>
       <h2>Test Component가 로드되었습니다!</h2>
